@@ -1,4 +1,4 @@
-package com.example.affirmations
+/*package com.example.affirmations
 
 import org.junit.Test
 
@@ -15,3 +15,5 @@ class ExampleUnitTest {
         assertEquals(4, 2 + 2)
     }
 }
+
+ */

@@ -1,4 +1,4 @@
-package com.example.affirmations
+/*package com.example.affirmations
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -22,3 +22,5 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.affirmations", appContext.packageName)
     }
 }
+
+ */
